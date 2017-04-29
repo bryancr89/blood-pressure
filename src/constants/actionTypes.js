@@ -1,0 +1,8 @@
+export const SAVE_FUEL_SAVINGS = 'SAVE_FUEL_SAVINGS';
+export const CALCULATE_FUEL_SAVINGS = 'CALCULATE_FUEL_SAVINGS';
+
+export const ADD_NEW_RECORD = 'ADD_NEW_RECORD';
+
+export const OPEN_MENU = 'OPEN_MENU';
+export const TOGGLE_MENU = 'TOGGLE_MENU';
+export const CLOSE_MENU = 'CLOSE_MENU';
